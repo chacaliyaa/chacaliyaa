@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chacaliyaa
+- 👋 Hi, I’m Sania Salsabila Aliya | @chacaliyaa
 - 👀 I’m interested in Web3, NFT Art, and Blockchain
 - 🌱 I’m currently learning Front-end first Full-Stack MERN.
 - 💞️ I’m looking to collaborate on E-commerce websites and web design projects.
